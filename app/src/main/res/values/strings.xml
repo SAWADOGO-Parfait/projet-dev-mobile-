@@ -1,0 +1,20 @@
+<resources>
+    <!-- Application -->
+    <string name="app_name">Direction Prospective MARAH</string>
+
+    <!-- Fragment Home -->
+    <string name="logo_marah">Logo MARAH</string>
+    <string name="direction_generale">Direction Générale des Études et des Statistiques Sectorielles</string>
+    <string name="direction_prospective">Direction de la Prospective, de la Planification et du Suivi-Évaluation</string>
+    <string name="actions_rapides">Actions Rapides</string>
+    <string name="agents">Agents</string>
+    <string name="total_agents">Total agents</string>
+    <string name="services">Services</string>
+    <string name="total_services">3 services</string>
+    <string name="agents_recents">Agents Récents</string>
+
+    <!-- Services -->
+    <string name="service_prospective">Service de la Prospective</string>
+    <string name="service_planification">Service de la Planification</string>
+    <string name="service_suivi">Service de Suivi-Évaluation</string>
+</resources>

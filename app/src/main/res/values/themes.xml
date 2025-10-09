@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Theme for the application -->
+    <style name="Base.Theme.Direction" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+
+    <style name="Theme.Direction" parent="Base.Theme.Direction" />
+</resources>
